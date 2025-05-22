@@ -28,21 +28,19 @@
                 </div>
 
                 <div class="md:w-1/2 p-8">
-                    <h2 class="text-3xl font-bold text-gray-900 mb-6">Smart Choice - WEBSITE BÁN GIÀY</h2>
+                    <h2 class="text-3xl font-bold text-gray-900 mb-6">SmartChoice - WEBSITE BÁN TAI NGHE</h2>
 
                     <div class="prose prose-lg text-gray-600 space-y-4">
-                        <p>Chúng tôi cũng đã và đang là những người tiêu dùng nên chúng tôi hiểu rất rõ tầm quan trọng
-                            của một sản phẩm. Đó có thể là một sản phẩm thể thao chạy bộ, đi chơi hay sản phẩm đá banh nhưng
-                            tựu chung lại thứ chúng ta cần vẫn là sự thoải mái và tự tin khi mang sản phẩm vào.</p>
+                        <p>Chúng tôi cũng đã và đang là những người tiêu dùng, nên hiểu rất rõ tầm quan trọng của một sản phẩm chất lượng.
+                             Dù là khi làm việc, học tập, chơi game hay thư giãn, điều mà chúng ta cần vẫn là sự thoải mái
+                            , tự tin và trải nghiệm âm thanh sống động khi sử dụng sản phẩm.</p>
 
-                        <p>Với một đôi chân khỏe, một sản phẩm tốt bạn có thể bước qua những chướng ngại, có thể thoải
-                            mái thể hiện mình, thoải mái vận động với những dòng thể thao hay thoải mái chưng diện với
-                            những dòng Sneaker kinh điển.</p>
+                        <p>Với một thiết bị âm thanh tốt, bạn có thể bước qua những giới hạn, đắm chìm trong không gian âm nhạc,
+                             thể hiện cá tính và tận hưởng trọn vẹn từng khoảnh khắc.</p>
 
-                        <p>Từ niềm cảm hứng bất tận với sản phẩm, đội ngũ chúng tôi đã cho ra đời đứa con tinh thần "STORM
-                            SHOP". Với mong muốn mang đến cho khách hàng những sản phẩm "chất nhất" đến từ các thương
-                            hiệu hàng đầu thế giới như B&O, JBL, Puma, Reebok, Fila, Marshall, New Balance, Asics,…
-                            với mức giá vô cùng hợp lý.</p>
+                        <p>Từ niềm cảm hứng bất tận với âm thanh và công nghệ, chúng tôi đã cho ra đời đứa con tinh thần "SMARTCHOICE".
+                             Với mong muốn mang đến cho khách hàng những mẫu tai nghe “chất nhất” đến từ các thương hiệu hàng đầu thế giới
+                              như B&O, JBL, Marshall, Sony, Sennheiser… với mức giá vô cùng hợp lý.</p>
                     </div>
                 </div>
             </div>
